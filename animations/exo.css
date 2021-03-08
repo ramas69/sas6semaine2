@@ -1,0 +1,17 @@
+div{
+    width:100px;
+    height:100px;
+    background-color: aqua;
+    margin:5px;
+  
+}
+.trois{
+    margin-left: 130px;
+}
+
+.quatre{
+    background-color: red;
+    text-align: center;
+    padding:auto;
+}
+

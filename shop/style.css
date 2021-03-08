@@ -1,0 +1,42 @@
+header{
+    background-color: teal;
+    padding: 7px;
+}
+
+header a {
+    color:white;
+    font-size: 1.7em;
+    font-weight: bold;
+    text-decoration:none;
+}
+h1{
+    text-decoration: underline;
+    font-size:1.3em;
+    text-decoration-color:wheat;
+    text-decoration-thickness:3px; 
+    margin:15px;
+}
+
+h2{
+    font-size:1em;
+}
+
+section{
+    margin:30px;
+}
+
+article{
+    background-color: #f7f4f4;
+    padding: 20px;
+    margin: 10px;
+}
+
+article h3{
+    color: rgb(199, 161, 91);
+    font-size:1.1em;
+}
+article a {
+    text-decoration:none;
+    font-weight: bold;
+    color: teal;
+}
